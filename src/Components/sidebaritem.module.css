@@ -1,0 +1,34 @@
+.iconContaine {
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: medium;
+  font-weight: bold;
+  font-weight: 500;
+  padding: 12px;
+  margin-left: -10px;
+}
+
+.iconContaine:hover {
+  color: rgb(150, 150, 150);
+}
+
+.iconContaine:active {
+  color: #c2982f;
+}
+
+.demosolutionflexbox {
+  display: flex;
+  align-items: center;
+  column-gap: 1em;
+  margin: 1em 0;
+  cursor: pointer;
+}
+
+.demosolutionflexbox:active {
+  color: #c2982f;
+}
+
+.demosolutionflexbox:hover {
+  color: rgb(150, 150, 150);
+}
