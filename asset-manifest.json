@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/trading-assistant/static/css/main.a3ae9787.css",
+    "main.js": "/trading-assistant/static/js/main.a6aad50b.js",
+    "static/js/453.dd53e008.chunk.js": "/trading-assistant/static/js/453.dd53e008.chunk.js",
+    "static/media/magnetm-29eb1aef.jpg": "/trading-assistant/static/media/magnetm-29eb1aef.2d50832856a44018ac89.jpg",
+    "static/media/app-logo-55741948.svg": "/trading-assistant/static/media/app-logo-55741948.582d763205c40d3bd7409e17082e1f0f.svg",
+    "index.html": "/trading-assistant/index.html",
+    "main.a3ae9787.css.map": "/trading-assistant/static/css/main.a3ae9787.css.map",
+    "main.a6aad50b.js.map": "/trading-assistant/static/js/main.a6aad50b.js.map",
+    "453.dd53e008.chunk.js.map": "/trading-assistant/static/js/453.dd53e008.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3ae9787.css",
+    "static/js/main.a6aad50b.js"
+  ]
+}
